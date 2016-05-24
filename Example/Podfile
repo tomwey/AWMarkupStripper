@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AWMarkupStripper_Tests' do
+  pod 'AWMarkupStripper', :path => '../'
+  
+  
+end
