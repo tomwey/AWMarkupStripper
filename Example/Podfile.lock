@@ -1,0 +1,16 @@
+PODS:
+  - AWMarkupStripper (0.1.0)
+
+DEPENDENCIES:
+  - AWMarkupStripper (from `../`)
+
+EXTERNAL SOURCES:
+  AWMarkupStripper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AWMarkupStripper: 7ef372194838ec67d09ac63a114a49bb0fdbf922
+
+PODFILE CHECKSUM: 68a55506cdd9543f6cf317ca0a48e27f09d2f1da
+
+COCOAPODS: 1.0.0

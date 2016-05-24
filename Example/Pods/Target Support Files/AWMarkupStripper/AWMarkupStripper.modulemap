@@ -1,0 +1,6 @@
+framework module AWMarkupStripper {
+  umbrella header "AWMarkupStripper-umbrella.h"
+
+  export *
+  module * { export * }
+}
